@@ -53,7 +53,7 @@ In the past, I've built systems like:
 - 📊 **Data-driven dashboards with MongoDB/Postgres**
 - 📡 **APIs with Django, Next.js, Express**
 
-Want to collaborate or chat tech? Reach out on [LinkedIn](https://linkedin.com/in/prince-kumar-240bb0224) or drop an email at: **princekumarbug12344@gmail.com**.
+
 ---
 <div align="center">
  
@@ -88,7 +88,7 @@ Want to collaborate or chat tech? Reach out on [LinkedIn](https://linkedin.com/i
 
 ### 📌 Quick Links
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PrinceNitrr24&color=brightgreen" alt="Profile views" /><br/>
     <a href="https://wakatime.com/@aa6e6906-9277-4e7a-b5c6-fea542a02882">
     <img src="https://wakatime.com/badge/user/aa6e6906-9277-4e7a-b5c6-fea542a02882.svg" alt="WakaTime">
@@ -108,7 +108,7 @@ Want to collaborate or chat tech? Reach out on [LinkedIn](https://linkedin.com/i
   <a href="mailto:princekumarbug12344@gmail.com">
     <img src="https://img.shields.io/badge/Email-Prince-red?style=flat&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p> -->
 <!-- GIF Banner -->
 <table>
   <tr>

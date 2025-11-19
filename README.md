@@ -15,9 +15,9 @@ I balance code with curiosity and find peace in a cup of ☕ tea and tech podcas
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h1 align="center">A little more about me!</h1>
 ```javascript
 const NightOwlCoder = {
-  name: "Prince Kumar",
-  pronouns: "he/him",
-  title: "Software Engineer | NIT Raipur '24",
+  name: "Reema Gahtori",
+  pronouns: "she/her",
+  title: "Software Engineer",
 Frontend: [
   JavaScript,
   TypeScript,
